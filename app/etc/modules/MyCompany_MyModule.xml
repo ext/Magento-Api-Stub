@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<MyCompany_MyModule>
+			<active>true</active>
+			<codePool>community</codePool>
+		</MyCompany_MyModule>
+	</modules>
+</config>
